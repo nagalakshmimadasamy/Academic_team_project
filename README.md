@@ -1,2 +1,1 @@
-# Academic_team_project
-A Kotlin-based travel booking system that uses inheritance to manage booking details like passenger name, seat number, and travel locations. The system improves efficiency by reusing the TicketBooking class and extends it for different booking types. The project focuses on code reusability and easy output display.
+A Kotlin-based travel booking system that uses inheritance to streamline code and improve efficiency. The project includes features like booking details (name, seat number, travel information) and demonstrates how inheritance can simplify code reuse and management.
